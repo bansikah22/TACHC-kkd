@@ -1,2 +1,2 @@
 # TACHC-kkd
-Terraform Associate Certification: HashiCorp Certified
+Terraform Associate Certification: HashiCorp Certification
